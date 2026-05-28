@@ -216,9 +216,7 @@ Hi! I'm **Saritha Chowdary**, a passionate Full Stack Developer and Generative A
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Chowdarysaritha311&theme=dark&hide_border=false)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Chowdarysaritha311&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&cache_seconds=86400&v=2)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chowdarysaritha311&theme=dark&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=86400&v=2)
 
 </div>
 
@@ -239,7 +237,9 @@ Hi! I'm **Saritha Chowdary**, a passionate Full Stack Developer and Generative A
 ---
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark" />
+</div>
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Chowdarysaritha311&limit=5&theme=dark&combine_all_yearly_contributions=true)
