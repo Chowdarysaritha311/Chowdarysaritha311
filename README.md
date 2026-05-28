@@ -214,11 +214,11 @@ Hi! I'm **Saritha Chowdary**, a passionate Full Stack Developer and Generative A
 
 <div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Chowdarysaritha311&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&cache_seconds=1800)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chowdarysaritha311&theme=dark&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=1800)
-
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Chowdarysaritha311&theme=dark&hide_border=false)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Chowdarysaritha311&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&cache_seconds=86400&v=2)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chowdarysaritha311&theme=dark&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=86400&v=2)
 
 </div>
 
