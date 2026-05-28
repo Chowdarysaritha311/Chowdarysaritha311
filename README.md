@@ -26,7 +26,6 @@ Hi! I'm **Saritha Chowdary**, a passionate Full Stack Developer and Generative A
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sarithachowdary)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/Chowdarysaritha311)
-
 [![](https://visitcount.itsvg.in/api?id=Chowdarysaritha311&icon=1&color=4)](https://visitcount.itsvg.in)
 
 <!-- Snake Game Repo View -->
