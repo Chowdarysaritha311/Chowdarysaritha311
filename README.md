@@ -240,9 +240,7 @@ Hi! I'm **Saritha Chowdary**, a passionate Full Stack Developer and Generative A
 
 <div align="center">
 
-> *"Talk is cheap. Show me the code."*
-> 
-> **— Linus Torvalds**
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Make%20it%20work%2C%20make%20it%20right%2C%20make%20it%20fast.&author=Kent%20Beck" alt="Dev Quote"/>
 
 </div>
 
