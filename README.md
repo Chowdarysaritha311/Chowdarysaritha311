@@ -13,9 +13,9 @@
 # 💫 Hi 👋, I'm Saritha Chowdary
 **A passionate Full Stack Developer || Generative AI Engineer from India**
 
-Email Me 👉 ✉️ **chowdarysaritha311@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **chowdarysaritha311@gmail.com** For Collaborations/Projects😊
 
-Hi! I'm **Saritha Chowdary**, a passionate Full Stack Developer and Generative AI Engineer from Bengaluru, India. I love building AI systems that actually solve real problems — from multi-agent pipelines and RAG workflows to full-stack web apps. I recently graduated with a B.Tech in Information Technology (CGPA: 8.21) and have hands-on experience across AI automation, computer vision, cloud, and cybersecurity. Let's build something amazing together! 🚀
+Hi! I'm **Saritha Chowdary**, a passionate Full Stack Developer and Generative AI Engineer from Bengaluru, India. I love building AI systems that actually solve real problems — from multi-agent pipelines and RAG workflows to full-stack web apps. I recently graduated with a B.Tech in Information Technology and have hands-on experience across AI automation, computer vision, cloud, and cybersecurity. Let's build something amazing together! 🚀
 
 - 🔭 **I'm currently working on:** AI-powered invoice automation systems, multi-agent pipelines using LangGraph, and n8n workflow automation for real-world business use cases.
 - 🌱 **I'm currently learning:** MCP Protocol, advanced prompt engineering, and cloud-native AI deployment on AWS & Azure.
@@ -36,7 +36,7 @@ Hi! I'm **Saritha Chowdary**, a passionate Full Stack Developer and Generative A
 
 ---
 
-<!-- Snake Game Repo View -->
+<!-- Snake Game -->
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
