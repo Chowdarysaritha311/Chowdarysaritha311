@@ -8,14 +8,12 @@
 
 </div>
 
----
-
 # 💫 Hi 👋, I'm Saritha Chowdary
 **A passionate Full Stack Developer || Generative AI Engineer from India**
 
-Email Me 👉 ✉️ **chowdarysaritha311@gmail.com** For Collaborations/Projects😊
+Email Me 👉 ✉️ **chowdarysaritha311@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-Hi! I'm **Saritha Chowdary**, a passionate Full Stack Developer and Generative AI Engineer from Bengaluru, India. I love building AI systems that actually solve real problems — from multi-agent pipelines and RAG workflows to full-stack web apps. I recently graduated with a B.Tech in Information Technology and have hands-on experience across AI automation, computer vision, cloud, and cybersecurity. Let's build something amazing together! 🚀
+Hi! I'm **Saritha Chowdary**, a passionate Full Stack Developer and Generative AI Engineer from Bengaluru, India. I love building AI systems that actually solve real problems — from multi-agent pipelines and RAG workflows to full-stack web apps. I recently graduated with a B.Tech in Information Technology (CGPA: 8.21) and have hands-on experience across AI automation, computer vision, cloud, and cybersecurity. Let's build something amazing together! 🚀
 
 - 🔭 **I'm currently working on:** AI-powered invoice automation systems, multi-agent pipelines using LangGraph, and n8n workflow automation for real-world business use cases.
 - 🌱 **I'm currently learning:** MCP Protocol, advanced prompt engineering, and cloud-native AI deployment on AWS & Azure.
@@ -34,24 +32,13 @@ Hi! I'm **Saritha Chowdary**, a passionate Full Stack Developer and Generative A
 
 [![](https://visitcount.itsvg.in/api?id=Chowdarysaritha311&icon=1&color=4)](https://visitcount.itsvg.in)
 
----
-
-<!-- Snake Game -->
+<!-- Snake Game Repo View -->
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
----
-
 ## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Chowdarysaritha311&theme=radical&no-frame=false&no-bg=false&margin-w=4&column=4)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
+![](https://github-profile-trophy.vercel.app/?username=Chowdarysaritha311&theme=radical&no-frame=false&no-bg=false&margin-w=4&column=4)
 
 # 💻 Tech Stack:
 
@@ -102,8 +89,6 @@ Hi! I'm **Saritha Chowdary**, a passionate Full Stack Developer and Generative A
 
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 
----
-
 # 🚀 Featured Projects:
 
 | 🏷️ Project | 📝 Description | 🛠️ Tech Stack | 🔗 Links |
@@ -114,26 +99,15 @@ Hi! I'm **Saritha Chowdary**, a passionate Full Stack Developer and Generative A
 | ✈️ **MCP Flight Booking Agent** | Flight booking agent using Model Context Protocol for tool integration with a clean FastAPI + frontend UI. | `MCP Protocol` `FastAPI` `React` | [GitHub](https://github.com/Chowdarysaritha311/real-time-flight-booking-mcp) |
 | 🛠️ **FixItNow Service Marketplace** | Role-based neighborhood service platform like Uber for home services — real-time booking, chat, Google Maps, JWT auth. | `Spring Boot` `React` `MySQL` `Google Maps` | [GitHub](https://github.com/r24af32/FixItNow) · [Live](https://fix-it-now-chi.vercel.app/) |
 | 👁️ **Crowd Surveillance System** | Real-time crowd monitoring with weapon detection, anomaly detection, DeepSORT tracking & automated alerts. Led a team of 4. | `YOLOv8` `DeepSORT` `OpenCV` `Autoencoder` | [GitHub](https://github.com/Adi674/ML-TEAM1) |
-| 🧳 **Unattended Luggage Detection** | Security computer vision system that detects luggage left unattended in public spaces using YOLO + custom tracking. | `YOLO` `OpenCV` `Python` | [GitHub](https://github.com/Chowdarysaritha311/Unattended-Luggage-Detection) |
-| 💳 **Credit Card Fraud Detection API** | ML model that flags fraudulent transactions, deployed as a REST API for easy integration with other systems. | `Scikit-learn` `FastAPI` `Python` | [GitHub](https://github.com/Chowdarysaritha311/credit-card-fraud-detection-api) |
+| 🧳 **Unattended Luggage Detection** | Security CV system detecting luggage left unattended in public spaces using YOLO + custom tracking algorithms. | `YOLO` `OpenCV` `Python` | [GitHub](https://github.com/Chowdarysaritha311/Unattended-Luggage-Detection) |
+| 💳 **Credit Card Fraud Detection API** | ML model flagging fraudulent transactions, deployed as a REST API for easy integration with other systems. | `Scikit-learn` `FastAPI` `Python` | [GitHub](https://github.com/Chowdarysaritha311/credit-card-fraud-detection-api) |
 | 🍕 **Zomato Clone – Full Stack** | Complete MERN food delivery platform with JWT auth, payment gateway, cart & order tracking. | `React` `Node.js` `Express` `MongoDB` | [GitHub](https://github.com/Chowdarysaritha311/Edunet-Zomato-clone) · [Live](https://foodkings.vercel.app) |
 | 📱 **Flutter Chat Snap** | Real-time cross-platform chat app built with Flutter for both iOS and Android. | `Flutter` `Dart` | [GitHub](https://github.com/Chowdarysaritha311/flutter-chat-snap) |
 
----
-
 # 📊 GitHub Stats:
-
-<div align="center">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Chowdarysaritha311&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&cache_seconds=1800)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chowdarysaritha311&theme=dark&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=1800)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=Chowdarysaritha311&theme=dark&hide_border=false)
-
-</div>
-
----
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Chowdarysaritha311&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&cache_seconds=1800)<br>
+![](https://github-readme-stats.vercel.app/api?username=Chowdarysaritha311&theme=dark&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=1800)
+![](https://streak-stats.demolab.com/?user=Chowdarysaritha311&theme=dark&hide_border=false)
 
 ## 🎖️ Achievements & Awards
 
@@ -147,17 +121,13 @@ Hi! I'm **Saritha Chowdary**, a passionate Full Stack Developer and Generative A
 | Infosys Pragati Graduate | Cohort 6 – AI, Cloud, Data Science |
 | Hackathon Organizer | WebHack 2025 – 100+ participants, 8-hour event |
 
----
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Chowdarysaritha311&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-
-<!-- Proudly created with help from Claude AI -->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <div align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
