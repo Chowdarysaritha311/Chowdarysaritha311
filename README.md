@@ -236,9 +236,14 @@ Hi! I'm **Saritha Chowdary**, a passionate Full Stack Developer and Generative A
 
 ---
 
-### ✍️ Random Dev Quote
+### ✍️ Dev Quote
+
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark" />
+
+> *"Talk is cheap. Show me the code."*
+> 
+> **— Linus Torvalds**
+
 </div>
 
 ### 🔝 Top Contributed Repo
