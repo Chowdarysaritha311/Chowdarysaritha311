@@ -24,11 +24,8 @@ Hi! I'm **Saritha Chowdary**, a passionate Full Stack Developer and Generative A
 - ⚡ **Fun fact:** I've organized an 8-hour hackathon for 100+ participants, won a Best Intern Award for leading an ML team, and I'm also a freelance video editor and photographer! 🎬📸
 
 ## 🌐 Socials:
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23FF6B6B.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://chowdarysaritha311.github.io/saritha-dev-portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sarithachowdary)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/Chowdarysaritha311)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/ch_saritha095)
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://codechef.com/users/chsaritha)
 
 [![](https://visitcount.itsvg.in/api?id=Chowdarysaritha311&icon=1&color=4)](https://visitcount.itsvg.in)
 
@@ -38,7 +35,7 @@ Hi! I'm **Saritha Chowdary**, a passionate Full Stack Developer and Generative A
 </div>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Chowdarysaritha311&theme=radical&no-frame=false&no-bg=false&margin-w=4&column=4)
+![](https://github-profile-trophy.vercel.app/?username=Chowdarysaritha311&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 # 💻 Tech Stack:
 
@@ -105,11 +102,11 @@ Hi! I'm **Saritha Chowdary**, a passionate Full Stack Developer and Generative A
 | 📱 **Flutter Chat Snap** | Real-time cross-platform chat app built with Flutter for both iOS and Android. | `Flutter` `Dart` | [GitHub](https://github.com/Chowdarysaritha311/flutter-chat-snap) |
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Chowdarysaritha311&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&cache_seconds=1800)<br>
-![](https://github-readme-stats.vercel.app/api?username=Chowdarysaritha311&theme=dark&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=1800)
-![](https://streak-stats.demolab.com/?user=Chowdarysaritha311&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Chowdarysaritha311&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br>
+![](https://github-readme-stats.vercel.app/api?username=Chowdarysaritha311&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Chowdarysaritha311&theme=dark&hide_border=false)
 
-## 🎖️ Achievements & Awards
+## 🏆 Achievements & Awards
 
 | 🥇 Achievement | 📌 Details |
 |---|---|
@@ -126,6 +123,8 @@ Hi! I'm **Saritha Chowdary**, a passionate Full Stack Developer and Generative A
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Chowdarysaritha311&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
