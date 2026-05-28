@@ -1,3 +1,15 @@
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Saritha%20Chowdary&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20Generative%20AI%20Engineer&descAlignY=55&descSize=18"/>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Building+AI+Agents+%F0%9F%A4%96+that+actually+do+things;Full+Stack+Developer+%F0%9F%9A%80+MERN+%7C+Spring+Boot+%7C+FastAPI;LangGraph+%7C+LangChain+%7C+RAG+Pipelines+%F0%9F%94%97;Turning+ideas+into+production-grade+systems+%E2%9A%A1" alt="Typing SVG" />
+</a>
+
+</div>
+
+---
+
 # 💫 Hi 👋, I'm Saritha Chowdary
 **A passionate Full Stack Developer || Generative AI Engineer from India**
 
@@ -146,3 +158,7 @@ Hi! I'm **Saritha Chowdary**, a passionate Full Stack Developer and Generative A
 ---
 
 <!-- Proudly created with help from Claude AI -->
+
+<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+</div>
